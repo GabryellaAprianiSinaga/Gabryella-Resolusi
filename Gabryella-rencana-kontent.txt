@@ -1,5 +1,7 @@
 RENCANA KONTENT GABRYELLA
 
  - JAVASCRIPT
+  * ES6
+  * Framework javascript
  - PHP FRAMEWORK
  - INTERVIEW
